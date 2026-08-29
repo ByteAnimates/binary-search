@@ -7,6 +7,7 @@ The working code from the [@ByteAnimates](https://www.facebook.com/ByteAnimates)
 ```bash
 python3 binary_search.py
 python3 main.py
+python3 test_binary_search.py
 ```
 
 No dependencies. Python 3.9+.
@@ -33,6 +34,7 @@ def binary_search(nums, target):
 | --- | --- |
 | `binary_search.py` | the reel snippet, generated from the episode |
 | `main.py` | run this — the demo, with real inputs and the claims asserted |
+| `test_binary_search.py` | the properties, checked — they survive a rewrite |
 
 ---
 
