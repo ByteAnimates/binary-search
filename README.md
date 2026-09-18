@@ -5,8 +5,8 @@
 The working code from the [@ByteAnimates](https://www.facebook.com/ByteAnimates) reel.
 
 ```bash
-python3 binary_search.py
 python3 main.py
+python3 binary_search.py
 python3 test_binary_search.py
 ```
 
@@ -33,7 +33,7 @@ def binary_search(nums, target):
 | | |
 | --- | --- |
 | `binary_search.py` | the reel snippet, generated from the episode |
-| `main.py` | run this — the demo, with real inputs and the claims asserted |
+| `main.py` | run this — the demo, with real inputs and real output |
 | `test_binary_search.py` | the properties, checked — they survive a rewrite |
 
 ---
